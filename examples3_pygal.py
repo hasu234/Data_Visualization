@@ -14,7 +14,7 @@ def draw_line(title, xvals, yvals):
     lineplot.add("Data", yvals)
     lineplot.render_in_browser()
 
-xvals = [0, 1, 3, 5, 6, 7, 9, 11, 12, 15]
+xvals = [0, 1, 3, 5, 6, 7, 9, 11, 12, 14]
 yvals = [4, 3, 1, 2, 2, 4, 5, 2, 1, 4]
 
 draw_line("My Line Plot", xvals, yvals)

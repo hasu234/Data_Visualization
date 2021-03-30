@@ -1,5 +1,5 @@
 """
-Using sets.
+Using sets
 """
 
 print("Set Literals")

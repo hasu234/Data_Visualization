@@ -5,7 +5,7 @@ Load a county-level PNG map of the USA and draw it using matplotlib
 
 import matplotlib.pyplot as plt
 
-# Houston location
+
 
 USA_SVG_SIZE = [555, 352]
 

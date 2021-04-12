@@ -20,6 +20,7 @@ def most_ones(seq0, seq1):
 print(most_ones(range(42), [0, 1, 2, 3, 2, 1, 0]))
 print(most_ones([1] * 5, [1, 2, 1, 2, 1, 2, 1]))
 
+
 def random_unique(minnum, maxnum):
     """
     Return a list with random values between minnum and

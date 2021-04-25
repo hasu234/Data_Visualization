@@ -4,6 +4,7 @@ From http://www.pygal.org/en/latest/index.html
 """
 
 
+
 import pygal
 
 # Saves to SVG file - http://www.pygal.org/en/stable/documentation/output.html#file

@@ -23,7 +23,6 @@ def remove_dups(lst):
     Inputs:
       lst - A list object
 
-
     Outputs:
       Returns a new list with the same elements in lst,
       in the same order, but without duplicates.  Only
